@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background: #eee;
+    font-family: verdana;
+}
+
+#credits {
+    font-size: small;
+}
+
+.tweet-box {
+    padding: 5px;
+}
